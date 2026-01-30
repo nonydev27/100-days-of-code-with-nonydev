@@ -9,9 +9,13 @@ To code for at least one hour every day for the next 100 days, focusing on Web D
 
 | Day | Project Name | Tech Stack | Highlights |
 |:---:|:--- |:--- |:--- |
-| 001 | [Calculator & To Do List](./Day-001) | ..., ... | Built a r..... |
-| 002 | [QR Code Generator](./Day-002) | JavaScript | Built a ..... |
-| ... | ... | ... | ... |
+| 001 | [Calculator/To Do List](./Day-001) | React, TailwindCSS| Built a r..... |
+| 002 | [QR Code Generator](./Day-002) | React, TailwindCSS | Built a ..... |
+| 003| ... | ... | ... |
+| 003| ... | ... | ... |
+| 003| ... | ... | ... |
+| 003| ... | ... | ... |
+| 003| ... | ... | ... |
 
 ---
 
