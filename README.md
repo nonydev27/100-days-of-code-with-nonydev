@@ -9,9 +9,9 @@ To code for at least one hour every day for the next 100 days, focusing on Web D
 
 | Day | Project Name | Tech Stack |
 |:---:|:--- |:--- |
-| 001 | [Calculator](./Calculator) | React, TailwindCSS  
-| 002 | [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS |
-| 003|[Color Flipper](./Color_Flipper) | TypeScript |
+| 001 | [Calculator](./Calculator) | React, TailwindCSS  |
+| 002 | [QR Code Generator](./QR_Code_Generator) | Python |
+| 003|[Color Flipper](./Color_Flipper) | TypeScript / JavaScript |
 | 004| [Simple Login System](./Simple_Login_System) | React, TailwindCSS | 
 | 005| [E-Commerce Site](./E-commerce_Site) | React, TailwindCSS, SQL| 
 | 006| [School Managemnt System](./School_Management_System) | React, TailwindCSS, SQLite | 
