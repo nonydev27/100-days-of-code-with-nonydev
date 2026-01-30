@@ -10,12 +10,12 @@ To code for at least one hour every day for the next 100 days, focusing on Web D
 | Day | Project Name | Tech Stack |
 |:---:|:--- |:--- |
 | 001 | [Calculator](./Calculator) | React, TailwindCSS| 
-| 002 | [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS 
+| 002 | [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS |
 | 003|[Color Flipper](./Color_Flipper) | TypeScript |
 | 004| [Simple Login System](./Simple_Login_System) | React, TailwindCSS | 
-| 005| [E-Commerce Site](./E-commerce_Site) | React, TailwindCSS | 
-| 006| [School Managemnt System](./School_Management_System) | React, TailwindCSS | 
-| 007| [Personal Portfolio Website](./Personal_Portfolio_Site) | React, TailwindCSS | 
+| 005| [E-Commerce Site](./E-commerce_Site) | React, TailwindCSS, sql| 
+| 006| [School Managemnt System](./School_Management_System) | React, TailwindCSS, SQL | 
+| 007| [Personal Portfolio Website](./Personal_Portfolio_Site) | React, TypeScript, TailwindCSS, Bootstrap, Material Ui (any)| 
 
 ---
 
