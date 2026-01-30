@@ -13,9 +13,9 @@ To code for at least one hour every day for the next 100 days, focusing on Web D
 | 002 | [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
 | 003|[Color Flipper](./Color_Flipper) | React, TailwindCSS | Built a ..... |
 | 004| [Simple Login System](./Simple_Login_System) | React, TailwindCSS | Built a ..... |
-| 005| [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
-| 006| .[QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
-| 007| .[QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
+| 005| [E-Commerce Site](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
+| 006| .[School Managemnt System](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
+| 007| .[Personal Portfolio Website](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
 
 ---
 
