@@ -14,8 +14,8 @@ To code for at least one hour every day for the next 100 days, focusing on Web D
 | 003|[Color Flipper](./Color_Flipper) | React, TailwindCSS | Built a ..... |
 | 004| [Simple Login System](./Simple_Login_System) | React, TailwindCSS | Built a ..... |
 | 005| [E-Commerce Site](./E-commerce_Site) | React, TailwindCSS | Built a ..... |
-| 006| .[School Managemnt System](./School_Management_System) | React, TailwindCSS | Built a ..... |
-| 007| .[Personal Portfolio Website](./Personal_Portfolio_Site) | React, TailwindCSS | Built a ..... |
+| 006| [School Managemnt System](./School_Management_System) | React, TailwindCSS | Built a ..... |
+| 007| [Personal Portfolio Website](./Personal_Portfolio_Site) | React, TailwindCSS | Built a ..... |
 
 ---
 
