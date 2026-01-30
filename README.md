@@ -10,12 +10,12 @@ To code for at least one hour every day for the next 100 days, focusing on Web D
 | Day | Project Name | Tech Stack | Highlights |
 |:---:|:--- |:--- |:--- |
 | 001 | [Calculator](./Calculator) | React, TailwindCSS| Built a r..... |
-| 002 | [QR Code Generator](./Day-002) | React, TailwindCSS | Built a ..... |
-| 003| ... | ... | ... |
-| 004| ... | ... | ... |
-| 005| ... | ... | ... |
-| 006| ... | ... | ... |
-| 007| ... | ... | ... |
+| 002 | [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
+| 003|[QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
+| 004| [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
+| 005| [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
+| 006| .[QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
+| 007| .[QR Code Generator](./QR_Code_Generator) | React, TailwindCSS | Built a ..... |
 
 ---
 
