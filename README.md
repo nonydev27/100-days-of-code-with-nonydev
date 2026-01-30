@@ -3,7 +3,7 @@
 Welcome to my #100DaysOfCode journey! This repository is a dedicated space where I document my daily progress, share the projects I build, and track my growth as a developer.
 
 ## 📌 The Goal
-To code for at least one hour every day for the next 100 days, focusing on [insert tech like: Python, JavaScript, Web Dev] and building a consistent habit of learning.
+To code for at least one hour every day for the next 100 days, focusing on Web Dev and building a consistent habit of learning.
 
 ## 🗓️ Progress Tracker
 
