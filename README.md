@@ -8,7 +8,7 @@ To code for at least one hour every day for the next 100 days, focusing on Web D
 ## 🗓️ Progress Tracker
 
 | Day | Project Name | Tech Stack |
-|:---:|:--- |:--- |:--- |
+|:---:|:--- |:--- |
 | 001 | [Calculator](./Calculator) | React, TailwindCSS| 
 | 002 | [QR Code Generator](./QR_Code_Generator) | React, TailwindCSS 
 | 003|[Color Flipper](./Color_Flipper) | TypeScript |
