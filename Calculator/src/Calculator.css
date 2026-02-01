@@ -1,0 +1,77 @@
+/* Center the calculator on screen */
+.calculator-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #202020;
+}
+
+/* The main calculator body */
+.calculator {
+  background-color: #000;
+  width: 320px;
+  padding: 20px;
+  border-radius: 30px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+}
+
+/* The Screen */
+.display {
+  color: white;
+  font-size: 4rem;
+  text-align: right;
+  padding-right: 10px;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+  font-weight: 300;
+  height: 80px; /* Keeps layout stable */
+}
+
+/* Grid Layout for Buttons */
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+
+/* Button Styling */
+.btn {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  border: none;
+  font-size: 1.7rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: filter 0.2s;
+}
+
+.btn:active {
+  filter: brightness(1.3);
+}
+
+/* Color Styles */
+.dark {
+  background-color: #333;
+  color: white;
+}
+
+.gray {
+  background-color: #a5a5a5;
+  color: black;
+}
+
+.orange {
+  background-color: #ff9f0a;
+  color: white;
+}
+
+/* Special styling for the '0' button to span 2 columns */
+.zero {
+  grid-column: span 2;
+  width: 100%; /* Stretch to fill both columns */
+  border-radius: 35px; /* Pill shape */
+  text-align: left;
+  padding-left: 28px;
+}
