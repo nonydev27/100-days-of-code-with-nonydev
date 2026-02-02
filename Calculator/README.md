@@ -10,7 +10,7 @@ and then renders the output.
     git clone [https://github.com/nonydev27/knust-java-hub.git](https://github.com/nonydev27/knust-java-hub.git)
     ```
 2.  **Navigate to a project folder:**
-    ```bash
+    ```bas
     cd knust-java-hub/GRADING_SYSTEM
     ```
 3.  **Compile and Run (using Terminal):**
