@@ -3,10 +3,12 @@ export default function app() {
   return (
     
     <div className="flex flex-1 w-full">
-       <button className="bg-red-400">red</button>
+      <div>
+         <button className="bg-red-400">red</button>
        <button className="bg-blue-400">blue</button>
        <button className="bg-green-400">green</button>
        <button className="bg-gray-400">random</button>
+      </div>
     </div>
 
   );
