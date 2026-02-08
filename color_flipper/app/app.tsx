@@ -2,7 +2,7 @@
 export default function app() {
   return (
     
-    <div className="flex flex-1 w-full">
+    <div className="flex justify-center">
       <div className="">
         <button className="bg-red-400">red</button>
        <button className="bg-blue-400">blue</button>
