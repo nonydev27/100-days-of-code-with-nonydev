@@ -11,7 +11,7 @@ export default function Home() {
 
        <div className='project project-header text-xl font-bold justify-between uppercase bg-yellow-400 flex'>
          <h3 className='md:m-4 m-1 text-sm'>Title: color flipper</h3>
-         <h3 className='md:m-4 m-1 text-sm'>Duration: 25th January, 2026 - 3rd February,2026</h3>
+         <h3 className='md:m-4 m-1 text-sm'>Duration: 6th Febraury, 2026 - 8th February,2026</h3>
       </div>
 
       <App/>
