@@ -6,6 +6,7 @@ export default function app() {
        <button className="bg-red-400">red</button>
        <button className="bg-blue-400">blue</button>
        <button className="bg-green-400">green</button>
+       <button>random</button>
     </div>
 
   );
