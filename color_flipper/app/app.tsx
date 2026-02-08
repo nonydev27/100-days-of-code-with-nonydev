@@ -1,4 +1,6 @@
 import {useState} from "react";
+
+const [backgroundColor, setBackgroundColor] = useState("white");
 export default function app() {
   return (
     
