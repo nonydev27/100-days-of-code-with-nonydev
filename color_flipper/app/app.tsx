@@ -2,10 +2,10 @@
 export default function app() {
   return (
     
-    <div>
-       <button className="bg-red-400 ">red</button>
-       <button>blue</button>
-       <button>green</button>
+    <div className="">
+       <button className="bg-red-400">red</button>
+       <button className="bg-blue-400">blue</button>
+       <button className="bg-green-400">green</button>
     </div>
 
   );
