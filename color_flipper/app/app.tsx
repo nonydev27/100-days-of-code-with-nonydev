@@ -3,7 +3,7 @@ export default function app() {
   return (
     
     <div className="flex justify-center">
-      <div className="">
+      <div className="space-x-2">
         <button className="bg-red-400">red</button>
        <button className="bg-blue-400">blue</button>
        <button className="bg-green-400">green</button>
