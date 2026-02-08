@@ -1,4 +1,4 @@
-
+import app from "./app"
 export default function Home() {
   return (
     
@@ -13,7 +13,11 @@ export default function Home() {
          <h3 className='md:m-4 m-1 text-sm'>Title: color flipper</h3>
          <h3 className='md:m-4 m-1 text-sm'>Duration: 25th January, 2026 - 3rd February,2026</h3>
       </div>
+
+
     </div>
 
   );
 }
+
+
