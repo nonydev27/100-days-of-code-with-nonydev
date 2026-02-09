@@ -11,7 +11,7 @@ export default function app() {
         <button className="bg-red-400 p-4 uppercase text-white font-bold hover:bg-red-600">red</button>
        <button className="bg-blue-400 p-4 uppercase text-white font-bold hover:bg-blue-600">blue</button>
        <button className="bg-green-400 p-4 uppercase text-white font-bold hover:bg-green-600">green</button>
-       <button className="bg-gray-400 p-4 uppercase text-white font-bold hover:bg-red-600">random</button>
+       <button className="bg-gray-400 p-4 uppercase text-white font-bold hover:bg-gray-600">random</button>
       </div>
     </div>
 
